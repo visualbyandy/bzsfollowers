@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Profile Landing Page",
+  "description": "Landing page berbentuk profil Instagram interaktif kelas dunia dengan kustomisasi real-time, grid postingan, cerita interaktif (Stories), dan desain yang sangat mirip aslinya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
