@@ -298,16 +298,19 @@ export default function App() {
                 >
                   {isFollowing ? 'Following' : 'Follow'}
                 </button>
-                <button 
+                <a 
                   id="profile-action-message"
-                  className={`px-4 py-2 text-xs font-sf font-medium rounded-lg border transition-all duration-200 ${
+                  href={profile.website || "https://wa.me/6285880036748"}
+                  target="_blank"
+                  rel="noreferrer"
+                  className={`px-4 py-2 text-xs font-sf font-medium rounded-lg border transition-all duration-200 inline-flex items-center justify-center ${
                     theme === 'dark' 
-                      ? 'bg-transparent border-zinc-800 hover:bg-zinc-900' 
-                      : 'bg-transparent border-gray-100 hover:bg-gray-50'
+                      ? 'bg-transparent border-zinc-800 hover:bg-zinc-900 text-white' 
+                      : 'bg-transparent border-gray-150 hover:bg-gray-50 text-black'
                   }`}
                 >
                   Message
-                </button>
+                </a>
               </div>
             </div>
 
