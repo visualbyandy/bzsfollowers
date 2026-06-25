@@ -565,8 +565,7 @@ export default function App() {
                 key={post.id}
                 id={`grid-post-${post.id}`}
                 onClick={() => setSelectedPost(post)}
-                className="relative group overflow-hidden bg-zinc-900 rounded-sm shadow-inner cursor-pointer select-none border border-white"
-                style={{ width: '3.3cm', height: '4.35cm' }}
+                className="relative group overflow-hidden bg-zinc-900 rounded-sm shadow-inner cursor-pointer select-none border border-white w-full aspect-[3.3/4.35] sm:w-[3.3cm] sm:h-[4.35cm]"
               >
                 <img
                   src={post.imageUrls[0]}
