@@ -23,15 +23,16 @@ import testiImg18 from './File Testimoni/testi 1.jpg';
 import testiImg19 from './File Testimoni/zIWl9.jpg';
 
 // Import Pricelist Images
-import priceImgFB from './File Testimoni/FACEBOOKPRICELIST.png';
+import priceImgFB from './File Testimoni/facebookfacebook.jpeg';
 import priceImgIG from './File Testimoni/IG PRICELIST.png';
 import priceImgIGBule from './File Testimoni/IGBULEUSA.png';
-import priceImgTikTok from './File Testimoni/TIKTOK PRIECLIST.png';
+import priceImgNewYork from './File Testimoni/NEWYORK.png';
+import priceImgTikTok from './File Testimoni/tiktoktiktok.png';
 import priceImgYT from './File Testimoni/YOUTUBESUBSCRIBERS.jpg';
 import priceImgGeneral2 from './File Testimoni/20240205_104815_0001.png';
 import testiNewWisk from './File Testimoni/wisk_20240417_060345_0000.png';
 import testiKmg from './File Testimoni/kmgGD.jpg';
-import ratecardImg from './File Testimoni/ratecard.png';
+import ratecardImg from './File Testimoni/IMG_4675.jpeg';
 import chatUsInBio from './File Testimoni/chat us in bio.png';
 import chatUsInBio2 from './File Testimoni/chat us in bio(2).png';
 const priceImgGeneral1 = priceImgGeneral2;
@@ -49,7 +50,7 @@ export const PERSONAS: ProfilePersona[] = [
       isVerified: true,
       category: 'Product/Service',
       bio: 'Since 2021 ✨\nPayment: Paypal / Wise / Crypto 💵\nGuaranteed\nFor More Info / Order Click Link Whatsapp In Below 👇🏻',
-      website: 'https://wa.me//6285880036748',
+      website: 'https://wa.me//447518367677',
       followersCount: 116000,
       followingCount: 554,
     },
@@ -172,7 +173,7 @@ export const PERSONAS: ProfilePersona[] = [
       },
       {
         id: 'post4',
-        imageUrls: [priceImgIGBule],
+        imageUrls: [priceImgNewYork],
         caption: 'EXPAND INTERNATIONALLY: GLOBAL & USA AUDIENCES\n\nPosition your brand on the international stage. Attract a premium global audience to elevate your brand prestige, drive worldwide authority, and cater to clients in the USA, Europe, and beyond.\n\nHigh-quality Global and USA targeting\nComplete warranty and permanent retention\nPerfect for luxury brands, creators, and exporters\n\nGain global prestige today. Simply link up with us via WhatsApp to explore custom global configurations.\n\n#globalbrand #premiuminfluence #usatargeted #brandexpansion #internationalscaling',
         likes: 812,
         location: 'Global Target Service',
