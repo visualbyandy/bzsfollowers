@@ -24,7 +24,7 @@ import testiImg19 from './File Testimoni/zIWl9.jpg';
 
 // Import Pricelist Images
 import priceImgFB from './File Testimoni/facebookfacebook.jpeg';
-import priceImgIG from './File Testimoni/IG PRICELIST.png';
+import priceImgIG from './File Testimoni/igigig.png';
 import priceImgIGBule from './File Testimoni/IGBULEUSA.png';
 import priceImgNewYork from './File Testimoni/NEWYORK.png';
 import priceImgTikTok from './File Testimoni/tiktoktiktok.png';
