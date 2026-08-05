@@ -14,7 +14,7 @@ import testiImg9 from './File Testimoni/NDosG.jpg';
 import testiImg10 from './File Testimoni/SaveClip.App_576485173_17855932185558387_3700965207571266405_n.jpg';
 import testiImg11 from './File Testimoni/SaveClip.App_580740462_17856354504558387_5226496408314328276_n.webp';
 import testiImg12 from './File Testimoni/6F285E75-365D-4880-98A8-B3F38B01AFC8.jpg';
-import testiImg13 from './File Testimoni/SaveClip.App_581747174_17856354522558387_2862525256354583249_n.webp';
+import testiImg13 from './File Testimoni/SaveClip.App_581747174_17856354522558387_2862525256354583249_n.jpg';
 import testiImg14 from './File Testimoni/SaveClip.App_582209915_17856822090558387_1869914361170119158_n.jpg';
 import testiImg15 from './File Testimoni/SaveClip.App_583088623_17856822099558387_9035302603530898824_n.jpg';
 import testiImg16 from './File Testimoni/SaveClip.App_583120148_17856822072558387_3170567395176466501_n.jpg';
