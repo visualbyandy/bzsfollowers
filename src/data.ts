@@ -13,11 +13,14 @@ import testiImg8 from './File Testimoni/LJn5n.jpg';
 import testiImg9 from './File Testimoni/NDosG.jpg';
 import testiImg10 from './File Testimoni/SaveClip.App_576485173_17855932185558387_3700965207571266405_n.jpg';
 import testiImg11 from './File Testimoni/SaveClip.App_580740462_17856354504558387_5226496408314328276_n.webp';
-import testiImg12 from './File Testimoni/6F285E75-365D-4880-98A8-B3F38B01AFC8.jpg';
-import testiImg13 from './File Testimoni/SaveClip.App_581747174_17856354522558387_2862525256354583249_n.jpg';
+import testiImg12 from './File Testimoni/SaveClip.App_581720672_17856822138558387_5585677035717371713_n.jpg';
+import testiImg13 from './File Testimoni/SaveClip.App_581747174_17856354522558387_2862525256354583249_n.webp';
 import testiImg14 from './File Testimoni/SaveClip.App_582209915_17856822090558387_1869914361170119158_n.jpg';
-import testiImg15 from './File Testimoni/SaveClip.App_583088623_17856822099558387_9035302603530898824_n.jpg';
-import testiImg16 from './File Testimoni/zIWl9.jpg';
+import testiImg15 from './File Testimoni/6F285E75-365D-4880-98A8-B3F38B01AFC8.jpg';
+import testiImg16 from './File Testimoni/SaveClip.App_583120148_17856822072558387_3170567395176466501_n.jpg';
+import testiImg17 from './File Testimoni/rMnO4.jpg';
+import testiImg18 from './File Testimoni/testi 1.jpg';
+import testiImg19 from './File Testimoni/zIWl9.jpg';
 
 // Import Pricelist Images
 import priceImgFB from './File Testimoni/FACEBOOKPRICELIST.png';
@@ -57,14 +60,12 @@ export const PERSONAS: ProfilePersona[] = [
         coverUrl: testiImg18,
         stories: [
           { id: 's1_testi18', mediaUrl: testiImg18, type: 'image' },
-          { id: 's1_testi1', mediaUrl: testiImg1, type: 'image' },
           { id: 's1_testi2', mediaUrl: testiImg2, type: 'image' },
           { id: 's1_testi3', mediaUrl: testiImg3, type: 'image' },
           { id: 's1_testi4', mediaUrl: testiImg4, type: 'image' },
           { id: 's1_testi5', mediaUrl: testiImg5, type: 'image' },
           { id: 's1_testi6', mediaUrl: testiImg6, type: 'image' },
           { id: 's1_testi7', mediaUrl: testiImg7, type: 'image' },
-          { id: 's1_testi8', mediaUrl: testiImg8, type: 'image' },
           { id: 's1_testi9', mediaUrl: testiImg9, type: 'image' },
           { id: 's1_testi10', mediaUrl: testiImg10, type: 'image' },
           { id: 's1_testi11', mediaUrl: testiImg11, type: 'image' },
@@ -73,7 +74,6 @@ export const PERSONAS: ProfilePersona[] = [
           { id: 's1_testi14', mediaUrl: testiImg14, type: 'image' },
           { id: 's1_testi15', mediaUrl: testiImg15, type: 'image' },
           { id: 's1_testi16', mediaUrl: testiImg16, type: 'image' },
-          { id: 's1_testi17', mediaUrl: testiImg17, type: 'image' },
           { id: 's1_testi19', mediaUrl: testiImg19, type: 'image' },
         ],
       },
