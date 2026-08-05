@@ -17,10 +17,7 @@ import testiImg12 from './File Testimoni/6F285E75-365D-4880-98A8-B3F38B01AFC8.jp
 import testiImg13 from './File Testimoni/SaveClip.App_581747174_17856354522558387_2862525256354583249_n.jpg';
 import testiImg14 from './File Testimoni/SaveClip.App_582209915_17856822090558387_1869914361170119158_n.jpg';
 import testiImg15 from './File Testimoni/SaveClip.App_583088623_17856822099558387_9035302603530898824_n.jpg';
-import testiImg16 from './File Testimoni/SaveClip.App_583120148_17856822072558387_3170567395176466501_n.jpg';
-import testiImg17 from './File Testimoni/rMnO4.jpg';
-import testiImg18 from './File Testimoni/testi 1.jpg';
-import testiImg19 from './File Testimoni/zIWl9.jpg';
+import testiImg16 from './File Testimoni/zIWl9.jpg';
 
 // Import Pricelist Images
 import priceImgFB from './File Testimoni/FACEBOOKPRICELIST.png';
