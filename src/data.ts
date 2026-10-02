@@ -50,7 +50,7 @@ export const PERSONAS: ProfilePersona[] = [
       isVerified: true,
       category: 'Product/Service',
       bio: 'Since 2021 ✨\nPayment: Paypal / Wise / Crypto 💵\nGuaranteed\nFor More Info / Order Click Link Whatsapp In Below 👇🏻',
-      website: 'https://wa.me//447518367677',
+      website: 'https://wa.me//13439331823',
       followersCount: 116000,
       followingCount: 554,
     },
